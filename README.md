@@ -1,14 +1,12 @@
-# Hide-Win-Panel
-Скрывает стандартную панель с командой, которая выиграла в раунде.
-- P.S На CSS OB можно использовать:
-sv_nowinpanel 1 // Если установлено значение 1 в конце раунда не будет появляться панель со статистикой и лучшим игроком.(По умолчанию: 0)
+# [Disable round end event] --- Sound => Text
+Плагин отключается события конца раунда --- Звуки и текст
 
+```cpp
 - Установка:
-
-1. Поместить hide_win_panel.sp по пути /addons/sourcemod/scripting
-2. Поместить hide_win_panel.smx по пути /addons/sourcemod/plugins
+1. Поместить [round_end]_diseble_event.sp по пути /addons/sourcemod/scripting
+2. Поместить [round_end]_diseble_event.smx по пути /addons/sourcemod/plugins
 3. Перезапустить сервер.
-
+```
 - Контакты для связи при возникновении проблемы/предложений:
 
 1. Discord babka68#4072
