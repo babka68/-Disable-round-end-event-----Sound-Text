@@ -1,6 +1,6 @@
 # [Disable round end event] --- Sound => Text
 Плагин отключается трансляции событий конца раунда --- всевозможные звуки и текст
-
+Поддерживаемые игры: Counter-Strike: Source v34, Counter-Strike: Source Orangebox (это на каких было проверено) 
 
 Пример текста: Спецназ одержал победу!
 
