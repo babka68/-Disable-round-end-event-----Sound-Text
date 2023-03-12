@@ -1,6 +1,11 @@
 # [Disable round end event] --- Sound => Text
 Плагин отключается трансляции событий конца раунда --- всевозможные звуки и текст
 
+```cp Пример текста: Спецназ одержал победу!
+Пример звука: radio/ctwin.wav
+```
+
+
 ```cpp
 - Установка:
 1. Поместить [round_end]_diseble_event.sp по пути /addons/sourcemod/scripting
