@@ -5,9 +5,9 @@
 - Пример текста: Спецназ одержал победу!
 - ![win_text_ct](https://user-images.githubusercontent.com/30433617/224519025-b23e7c77-e099-4669-a461-b660f5a27ea8.png)
 - ![win_text_t](https://user-images.githubusercontent.com/30433617/224519074-7197717d-7c04-4987-8385-f08a0dc2a315.png)
-- 
+
 - Пример звука: radio/ctwin.wav
-- 
+
 - Установка:
 ```cpp
 1. Поместить [round_end]_diseble_event.sp по пути /addons/sourcemod/scripting
