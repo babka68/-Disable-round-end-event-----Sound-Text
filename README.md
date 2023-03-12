@@ -2,7 +2,9 @@
 Плагин отключается трансляции событий конца раунда --- всевозможные звуки и текст
 
 
-Пример текста: Спецназ одержал победу!![win_text_ct](https://user-images.githubusercontent.com/30433617/224518998-658830cf-3e69-42c4-9a1d-ad6ece6e9ae4.png)
+Пример текста: Спецназ одержал победу!
+![win_text_ct](https://user-images.githubusercontent.com/30433617/224519025-b23e7c77-e099-4669-a461-b660f5a27ea8.png)
+
 ![win_text_t](https://user-images.githubusercontent.com/30433617/224519003-3cd55e8b-6a8e-4fa4-b22c-8d7d4ea9c47b.png)
 
 Пример звука: radio/ctwin.wav
